@@ -1,0 +1,83 @@
+[
+	{
+		"name": "Pelkių Kaimas",
+		"uniqueTo": "Lithuania",
+		"terrainsCanBeBuiltOn": ["Marsh"],
+		"turnsToBuild": 6,
+		"gold": 2,
+		"techRequired": "Construction",
+		"improvingTech": "Radio",
+		"improvingTechStats": {"culture": 1}
+	},
+	{
+		"name": "Baňa",
+		"uniqueTo": "Slovakia",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"production": 1,
+		"gold": 1,
+		"turnsToBuild": 6,
+		"techRequired": "Mining",
+		"improvingTech": "Archaeology",
+		"improvingTechStats": {"culture": 1}
+	},
+	{
+		"name": "Cottage",
+		"terrainsCanBeBuiltOn": ["Plains","Hill","Grassland","Snow"],
+		"food": 2,
+		"gold": 2,
+		"turnsToBuild": 7,
+		"techRequired": "Construction",
+		"improvingTech": "Architecture",
+		"improvingTechStats": {"gold": 2}
+	},
+	{
+		"name": "Teachín",
+		"uniqueTo": "Ireland",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland"],
+		"food": 1,
+		"gold": 1,
+		"culture": 1,
+		"turnsToBuild": 6,
+		"techRequired": "Masonry",
+		"improvingTech": "Archaeology",
+		"improvingTechStats": {"culture": 2}
+	},
+	{
+		"name": "Maietok",
+		"uniqueTo": "Cossack Hetmanate",
+		"terrainsCanBeBuiltOn": ["Plains"],
+		"happiness": 1,
+		"culture": 2,
+		"turnsToBuild": 6,
+		"techRequired": "Architecture",
+		"improvingTech": "Railroad",
+		"improvingTechStats": {"gold": 2}
+	},
+	{
+		"name": "Casa da Musica",
+		"uniqueTo": "Portugal",
+		"techRequired": "Acoustics",
+		"terrainsCanBeBuiltOn": ["Hill","Desert","Grassland","Plains"],
+		"culture": 2,
+		"gold": 2,
+		"turnsToBuild": 5
+	},
+	{
+		"name": "Hive",
+		"turnsToBuild": 4,
+		"techRequired": "Agriculture"
+	},
+	{
+		"name": "Harvester Hut",
+		"food": 1,
+		"turnsToBuild": 6,
+		"techRequired": "Calendar",
+		"improvingTech": "Industrialization",
+		"improvingTechStats": {"gold": 1}
+	},
+	{
+		"name": "Brewery",
+		"turnsToBuild": 6,
+		"techRequired": "Guilds"
+	},
+]

@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Flax",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Grassland","Plains","Marsh"],
+		"gold": 2,
+		"improvement": "Harvester Hut",
+		"improvementStats": {"gold": 1}
+	},
+	{
+		"name": "Honey",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Grassland","Plains","Forest"],
+		"food": 2,
+		"improvement": "Hive",
+		"improvementStats": {
+			"gold": 1,
+			"food": 1
+		}
+	},
+	{
+		"name": "Hop",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Grassland"],
+		"food": 1,
+		"improvement": "Brewery",
+		"improvementStats": {"gold": 2}
+	},
+]

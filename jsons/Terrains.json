@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Mnich",
+		"type": "NaturalWonder",
+		"production": 2,
+		"culture": 4,
+		"happiness": 3,
+		"occursOn": ["Grassland","Plains","Hill","Mountain"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	},
+]
