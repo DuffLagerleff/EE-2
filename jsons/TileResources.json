@@ -23,7 +23,7 @@
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": ["Grassland"],
 		"food": 1,
-		"improvement": "Brewery",
+		"improvement": "Harvester Hut",
 		"improvementStats": {"gold": 2}
 	},
 ]

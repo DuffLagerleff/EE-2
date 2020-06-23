@@ -137,6 +137,13 @@ BuildingIcons/Pub
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Medic
+  rotate: false
+  xy: 500, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ImprovementIcons/Cottage
   rotate: false
   xy: 0, 400
@@ -172,7 +179,7 @@ ImprovementIcons/Hive
   orig: 100, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/Brewery
+BuildingIcons/Brewery
   rotate: false
   xy: 600, 500
   size: 100, 100
@@ -276,7 +283,7 @@ TileSets/FantasyHex/Tiles/Maietok
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Brewery
+TileSets/FantasyHex/Tiles/Harvester Hut+Hop
   rotate: false
   xy: 64, 0
   size: 32, 32
@@ -286,6 +293,13 @@ TileSets/FantasyHex/Tiles/Brewery
 TileSets/FantasyHex/Tiles/Honey
   rotate: false
   xy: 64, 32
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Hive
+  rotate: false
+  xy: 96, 32
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
@@ -304,7 +318,7 @@ TileSets/FantasyHex/Tiles/Hop
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Harvester Hut
+TileSets/FantasyHex/Tiles/Harvester Hut+Flax
   rotate: false
   xy: 96, 64
   size: 32, 32
