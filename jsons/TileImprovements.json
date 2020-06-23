@@ -75,9 +75,4 @@
 		"improvingTech": "Industrialization",
 		"improvingTechStats": {"gold": 1}
 	},
-	{
-		"name": "Brewery",
-		"turnsToBuild": 6,
-		"techRequired": "Guilds"
-	},
 ]
