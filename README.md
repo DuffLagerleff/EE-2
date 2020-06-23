@@ -2,7 +2,7 @@
 
 ![](/EE-2.1%20Map.png)
 
-[![GitHub](https://img.shields.io/badge/UnCiv-v.3.9.3-blue)](https://github.com/yairm210/Unciv)
+[![GitHub](https://img.shields.io/badge/UnCiv-v.3.9.5-blue)](https://github.com/yairm210/Unciv)
 
 ## What is this?
 
@@ -12,11 +12,8 @@ Also it adds 3 new resources, 4 non-unique buildings, 4 non-unique tile improvem
 
 ## Roadmap
 
-- Fix honey texture
 
-- Remake Esquire & add Medic
 
-- Turn brewery into the building & add Hop to the resouces for Harvester Hut
 
 - Pack #3
 
@@ -30,4 +27,4 @@ Also it adds 3 new resources, 4 non-unique buildings, 4 non-unique tile improvem
 
 # *Europe Launcher
 
-It's not an official announcement but in the nearest future it could be possible to start on development of the special launcher for Europe Expansions with Unique Abilities of civs.
+It's an official announcement by DuffLagerleff which will introduce you to the special launcher for Europe Expansions with Unique Abilities of civs inside it.
